@@ -1,0 +1,3 @@
+the database of this system is located at the datbase folder.
+please fill free to email me if there are some question about the code.
+please always include my name on the program. Thank you!
